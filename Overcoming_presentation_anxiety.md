@@ -1,1 +1,7 @@
-
+- Tự nhủ với bản thân rằng: Bạn thích đứng đây để chia sẻ, thích nói chuyện với mọi người, và bạn là chuyên gia trong chủ đề bạn đang nói.
+- Tự chuẩn bị và mang theo những vật dụng quan trọng: laptop cá nhân, bộ chuyển đổi, dây, thậm chí là máy chiếu nếu có thể.
+- Đi loanh quanh và trò chuyện với khán giả khi họ vừa đến => tạo thiện cảm với họ rằng bạn là người thân thiện, biết một chút về họ để bạn điều chỉnh cách trình bày phù hợp hơn, củng cố niềm tin rằng họ cũng chỉ là người bình thường như bạn - không cần quá áp lực.
+- Có mặt tại nơi thuyết trình thật sớm => để bạn có dư thời gian setup thiết bị, xem lại slide của mình để đảm bảo không lỗi font chữ và giao lưu với mọi người.
+- Đứng lên khi thuyết trình => khán giả dễ thấy bạn hơn, thể hiện sự tôn trọng với khán giả, quan trọng hơn là bạn sẽ thấy bình tĩnh và quyền lực hơn khi bạn đứng.
+- Đặt câu hỏi cho khán giả khi thuyết trình.
+- Luyện tập trình bày ít nhất 2 lần và hãy canh thời gian để không bị lố giờ.
