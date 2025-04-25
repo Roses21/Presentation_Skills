@@ -14,3 +14,19 @@
 - Điều này ảnh hưởng đáng kể đến hành vi của con người bằng cách dẫn dắt các cá nhân tìm đến người khác để hướng dẫn cách hành động, đặc biệt là trong các tình huống không chắc chắn.
 - Hành vi này bắt nguồn từ lịch sử tiến hóa của chúng ta, nơi phù hợp với các chuẩn mực nhóm là điều cần thiết cho sự sống còn. Khi đi ngược lại với ý kiến của đám đông, chúng ta có thể lo sợ và điều chỉnh bản thân mình để khớp với đa số.
 - Càng nhiều người tham gia vào một hành vi nhất định, nó càng được tin tường, ngay cả khi không có bằng chứng hỗ trợ => do đó ta dễ bị thao túng.
+
+### 1.4. Liking, empathy, and unity
+- Chúng ta bị ảnh hưởng nhiều hơn bởi những người chúng ta thích và thân thiết.
+- Có 2 loại đồng cảm:
+  - Sự đồng cảm về cảm xúc: liên quan đến việc chia sẻ cảm xúc của người khác => thúc đẩy lòng trắc ẩn.
+  - Sự đồng cảm nhận thức: hiểu những cảm xúc đó mà không nhất thiết phải trải nghiệm chúng => đôi khi có thể bị lạm dụng bởi những người thiếu đạo đức.
+- Bộ não của chúng ta có xu hướng phân loại mọi người thành các nhóm => thúc đẩy lòng trung thành và sự đồng cảm đối với những người trong vòng tròn của chúng ta, và thường dẫn đến sự không tin tưởng đối với người ngoài.
+- Sự hấp dẫn về thể chất, sự tương đồng về nhận thức và lòng tốt trong cách chúng ta đối xử với người khác sẽ định hình sở thích của chúng ta và chi phối kết quả của quá trình thuyết phục.
+
+### 1.5. Authority
+
+### 1.6. Scarcity
+
+### 1.7. Suggestion and priming
+
+## 2. Đàm phán: mô hình WHAT, WHY, HOW
