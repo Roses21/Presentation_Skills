@@ -46,3 +46,47 @@
   - Cảnh báo: Priming có thể bị lạm dụng để thao túng hành vi người khác.
 
 ## 2. Đàm phán: mô hình WHAT, WHY, HOW
+### 2.1. WHAT
+- Trong đàm phán, bạn cần hiểu đúng cái gì đang được chia và tìm ra lợi ích thực sự mà việc hợp tác tạo ra, không chỉ nhìn vào tổng kết quả.
+- Đàm phán không cần phải đối đầu. Đừng vội nghĩ đàm phán chỉ có thắng - thua. Nếu hiểu rõ nhu cầu thật của đôi bên và sáng tạo phương án, bạn có thể tạo thêm giá trị cho tất cả.
+  - Fixed Pie Bias là thành kiến tâm lý khiến người đàm phán tin rằng tài nguyên có giới hạn, nên họ nghĩ rằng một bên được thì bên kia phải mất (kiểu "zero-sum game").
+  - Chiến lược để vượt qua Fixed Pie Bias:
+    - Tách biệt việc tạo ý tưởng với đánh giá ý tưởng (giống brainstorming).
+    - Mở rộng lựa chọn thay vì giới hạn vào một vài phương án.
+    - Tập trung vào lợi ích chung thay vì "ai thắng ai thua".
+
+### 2.2. WHY
+- Trong đàm phán, đừng chỉ nhìn cái người ta đòi hỏi (vị trí), hãy tìm lợi ích thật sự ẩn sau đó. Đây mới là chìa khóa mở ra thỏa thuận bền vững.
+- Chiến lược đàm phán hiệu quả:
+  - Giao tiếp mở: Thẳng thắn chia sẻ lợi ích thật sự.
+  - Hướng tới lợi ích chung: Cả hai bên đều có được cái gì đó, tránh oán giận.
+  - Khám phá nhiều lựa chọn: Brainstorm nhiều khả năng ngay từ đầu.
+  - Nâng cao chất lượng phương án: Làm cho các lựa chọn trở nên hấp dẫn hơn.
+- Xây dựng Best Alternative to a Negotiated Agreement (BATNA) (Phương án tốt nhất nếu đàm phán thất bại) một cách cẩn thận => Có quyền chủ động trên bàn đàm phán.
+- BATNA không chỉ là "phương án dự phòng", mà có thể trở thành chiến lược chính khi hoàn cảnh thay đổi, do đó, cần:
+  - Tạo ra phương án thay thế: Lập danh sách các hành động khả thi nếu đàm phán thất bại.
+  - Hiểu BATNA của cả hai bên: Biết mình và biết đối phương sẽ giúp đọc vị chiến lược đàm phán của họ.
+  - Gia tăng sức mạnh: Tự tin rời khỏi bàn đàm phán nếu thỏa thuận không tốt.
+  - BATNA luôn thay đổi: Một thỏa thuận tốt với đối tác A có thể làm BATNA với đối tác B mạnh hơn.
+  - BATNA mang tính chủ quan: Mỗi bên có tiêu chuẩn khác nhau về thế nào là "tốt".
+  
+### 2.3. HOW
+- Đàm phán không chỉ liên quan đến các vấn đề vật chất mà còn phải quản lý cảm xúc.
+- Hai mục tiêu trong đàm phán:
+  - Nội dung: Đạt được kết quả thuận lợi.
+  - Mối quan hệ: Giữ được mối quan hệ tốt với đối phương.
+- Lắng nghe và thừa nhận cảm xúc của đối phương giúp khám phá những mối lo ngại và quan ngại ẩn giấu, từ đó tạo ra cuộc đàm phán lý trí hơn.
+- Hiện tượng “Reactive Devaluation”: Khi không đánh giá đề nghị dựa trên giá trị thực tế, mà chỉ dựa vào nguồn gốc của đề nghị (ai đưa ra), khiến bạn lỡ cơ hội và giảm hiệu quả đàm phán.
+- Trước khi bắt đầu đàm phán, cần cải thiện giao tiếp và giải quyết các vấn đề cảm xúc để mở đường cho kết quả đàm phán hiệu quả hơn.
+- Tập trung vào lợi ích chung và giá trị thực tế của giải pháp, thay vì theo đuổi lợi ích cá nhân hoặc sử dụng chiến thuật quyết liệt.
+
+### 2.4. Các bước đàm phán hiệu quả
+- Xác định "Negotiation Pie": Hiểu rõ vấn đề đang được đàm phán và những gì mỗi bên đang tranh chấp. Thống nhất về "Negotiation Pie" rất quan trọng.
+- Xác định xem "pie" có cố định hay có thể sáng tạo để điều chỉnh => khuyến khích mở rộng tư duy và hợp tác.
+- Tập trung vào lợi ích thật sự của các bên.
+- Tạo ra nhiều lựa chọn và giải pháp thay vì chỉ tìm kiếm một câu trả lời duy nhất.
+- Lập danh sách các lựa chọn thay thế (BATNA) và xếp hạng chúng để biết khi nào nên rút lui khỏi thỏa thuận.
+- Hiểu rõ BATNA của đối tác để nhận diện chiến lược của họ và điều chỉnh phương pháp đàm phán phù hợp.
+- Giải quyết cảm xúc và hiểu lầm ngay từ đầu để quá trình đàm phán diễn ra suôn sẻ hơn.
+- Đặt ra các tham số đánh giá thành công hay thất bại từ trước để đảm bảo đánh giá công bằng.
+
